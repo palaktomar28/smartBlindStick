@@ -1,1 +1,1 @@
-# smartBlindStick
+# Smart Blind Stick
